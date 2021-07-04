@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://deepanshu.onrender.com"
 title = "Deepanshu Raj | I will code your Dreams into reality."
 theme = "dr"
 # post pagination
