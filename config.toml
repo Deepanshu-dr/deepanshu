@@ -68,8 +68,7 @@ logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
 description = "I am a freelancer. I will code your dreams into reality"
-author = "Deepanshu"
-form_action = "http://deepanshuraj.byethost31.com/sendmail.php"
+author = "D33panshuraj"
 # Preloader
 [params.preloader]
 enable = true

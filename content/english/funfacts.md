@@ -20,7 +20,7 @@ funfacts:
 # funfacts item loop
 - name : "YEARS OF EXPERIENCE"
   image : "images/icons/programmer.png"
-  count : 4"
+  count : "3"
 
 
 # custom style
